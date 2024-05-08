@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Downloads\\CSE306\\Q1WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24105206-DD8F-4366-8211-D2452C4D0698}|Q1WebAPI\\Q1WebAPI.csproj|c:\\users\\msi-pc\\downloads\\cse306\\q1webapi\\q1webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24105206-DD8F-4366-8211-D2452C4D0698}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24105206-DD8F-4366-8211-D2452C4D0698}|Q1WebAPI\\Q1WebAPI.csproj|c:\\users\\msi-pc\\downloads\\cse306\\q1webapi\\q1webapi\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{24105206-DD8F-4366-8211-D2452C4D0698}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BOOKsController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Downloads\\CSE306\\Q1WebAPI\\Q1WebAPI\\Controllers\\BOOKsController.cs",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Controllers\\BOOKsController.cs",
+              "ToolTip": "C:\\Users\\MSI-PC\\Downloads\\CSE306\\Q1WebAPI\\Q1WebAPI\\Controllers\\BOOKsController.cs",
+              "RelativeToolTip": "Q1WebAPI\\Controllers\\BOOKsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:19:52.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Downloads\\CSE306\\Q1WebAPI\\Q1WebAPI\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\MSI-PC\\Downloads\\CSE306\\Q1WebAPI\\Q1WebAPI\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Q1WebAPI\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-08T17:17:02.495Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
