@@ -1,0 +1,81 @@
+import React from 'react';
+import { StyleSheet } from 'react-native';
+
+const styles = StyleSheet.create({
+    container: {
+        flex: 1,
+        flexDirection: 'row',
+        justifyContent: 'center',
+        alignItems: 'center',
+        padding: 1,
+    },
+    containerDisplay: {
+        flex: 8,
+        flexDirection: 'collumn',
+        padding: 4,
+    },
+    button: {
+        flex: 1,
+        borderColor: '#0F3F4D',
+        borderWidth: 2,
+        borderRadius: 30,
+        backgroundColor: '#1E5F75',
+        alignItems: 'center',
+        justifyContent: 'center',
+        padding: 1,
+        marginLeft: 1,
+        marginRight: 1,
+    },
+    buttonZero: {
+        flex: 2.7,
+        borderColor: '#0F3F4D',
+        borderWidth: 2,
+        borderRadius: 30,
+        backgroundColor: '#1E5F75',
+        padding: 1,
+        marginLeft: 1,
+        marginRight: 1,
+    },
+    numberText: {
+        fontSize: 40,
+        fontWeight: 'bold',
+        marginBottom: 5,
+        color: '#FFFF',
+    },
+    buttonOperate: {
+        flex: 1,
+        borderColor: '#36082D',
+        borderWidth: 2,
+        borderRadius: 30,
+        backgroundColor: '#630F54',
+        padding: 1,
+        marginLeft: 1,
+        marginRight: 1,
+    },
+    buttonClear: {
+        flex: 1,
+        borderColor: '#3D0C0D',
+        borderWidth: 2,
+        borderRadius: 30,
+        backgroundColor: '#571213',
+        padding: 1,
+        marginLeft: 1,
+        marginRight: 1,
+    },
+    title: {
+        fontSize: 50,
+        color: '#1E5F75',
+        fontWeight: 'bold',
+        borderWidth: 5,
+        padding: 1,
+        borderColor: '#0F3F4D',
+    },
+    display: {
+        fontSize: 50,
+        color: '#1E5F75',
+        fontWeight: 'bold',
+        marginTop: 250,
+        margin: 'auto',
+    },
+});
+export default styles;
